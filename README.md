@@ -30,18 +30,19 @@ The simulation includes:
 - Black squares as static obstacles.
 - Colored paths representing the robot's movement.
 
-📋 Dependencies
+
+## 📋 Dependencies
 
 Install the required packages using pip:
 
 ```bash
-pip install numpy matplotlib pandas´´´
+pip install numpy matplotlib pandas
 
-🧪 Running the Simulation
+## 🧪 Running the Simulation
 Run the simulation using:
 python robot_sorting_simulation.py
 
-🛠️ Possible Extensions
+## 🛠️ Possible Extensions
 Add multiple robots with task allocation.
 
 Implement dynamic obstacles or moving agents.
