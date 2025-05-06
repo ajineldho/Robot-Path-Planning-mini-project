@@ -37,5 +37,19 @@ Install the required packages using pip:
 ```bash
 pip install numpy matplotlib pandas
 
+## 🧪 Running the Simulation
+Run the simulation using:
+
+```bash
+python robot_sorting_simulation.py
+🛠️ Possible Extensions
+Add multiple robots with task allocation.
+
+Implement dynamic obstacles or moving agents.
+
+Use a GUI-based simulator for real-time control.
+
+Replace A* with other algorithms like Dijkstra or RRT.
+
 
 
