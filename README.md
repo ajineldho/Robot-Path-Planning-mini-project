@@ -35,7 +35,7 @@ The simulation includes:
 Install the required packages using pip:
 
 ```bash
-pip install numpy matplotlib pandas
+pip install numpy matplotlib pandas´´´
 
 🧪 Running the Simulation
 Run the simulation using:
